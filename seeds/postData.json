@@ -1,0 +1,32 @@
+[
+  {
+    "title": "I forgot Handlebars",
+    "comment": "Help!",
+    "user_id": 1
+  },
+  {
+    "title": "Best developer tutorials",
+    "comment": "YouTube channel: WebDevSimplified is pretty dang rad. Guy talks fast but conveys things succinctly and clearly. Worth a gander.",
+    "user_id": 1
+  },
+  {
+    "title": "Apollo / GraphQL for a small Mom & Pop website?",
+    "comment": "Seems to me like a whole extra layer of code when simple Sequelize or Mongoose is quick and efficient enough for small data sets.",
+    "user_id": 2
+  },
+  {
+    "title": "Bootcamp Blues",
+    "comment": "I should have listened when they said to stay on top of homework - Here I am with 2 weeks left and 3 assignments to complete for which I've partly forgotten the proficiencies.",
+    "user_id": 2
+  },
+  {
+    "title": "ChatGPT for explanation of code?",
+    "comment": "It's been a life-saver for quickly understanding a code block. Now I just have to remember to use it versus Google!",
+    "user_id": 3
+  },
+  {
+    "title": "PWAs",
+    "comment": "I'm not convinced that having a desktop icon which is basically just a shortcut to a web app is all that cool.",
+    "user_id": 3
+  }
+]
