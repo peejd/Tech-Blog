@@ -1,15 +1,17 @@
 {
-  "name": "crowd-funding",
+  "name": "tech-blog-of-the-future",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "seed": "node seeds/seed.js"
+    "seed": "node seeds/seed.js",
+    "heroku-postbuild": "node seeds/seed.js"
   },
   "keywords": [],
   "author": "",
+  "homepage": "https://github.com/peejd/Tech-Blog",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
